@@ -1,0 +1,16 @@
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/uninstall.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/px4_ros_com_uninstall.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/frame_transforms.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/sensor_combined_listener.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/vehicle_gps_position_listener.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/debug_vect_advertiser.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/drone_controller.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/drone_follower.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/offboard_control.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/test.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/edit_cache.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/list_install_components.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/install.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/install/local.dir
+/home/sebastian/ros2_ws/src/px4_ros_com/build/CMakeFiles/install/strip.dir
